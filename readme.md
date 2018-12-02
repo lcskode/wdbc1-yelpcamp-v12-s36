@@ -1,3 +1,7 @@
+#### S35-L315 YelpCamp V12.1  
+**Dynamic Price**  
+* Added campground price to be dynamic  
+
 #### S35-L313 YelpCamp V12  
 **UI Improvements**  
 * Add background slider  
