@@ -1,3 +1,7 @@
+#### S35-L313 YelpCamp V12  
+**UI Improvements**  
+* Add background slider  
+
 #### S35-L310 YelpCamp V11.1  
 **Adding Flash**  
 * Add bootstrap alerts to header  
