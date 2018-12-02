@@ -1,6 +1,7 @@
 #### S35-L313 YelpCamp V12  
 **UI Improvements**  
 * Add background slider  
+* Install nodemon package `npm install -g nodemon`  
 
 #### S35-L310 YelpCamp V11.1  
 **Adding Flash**  
